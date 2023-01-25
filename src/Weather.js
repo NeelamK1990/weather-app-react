@@ -38,7 +38,8 @@ export default function Weather() {
             <div className="col-6">
               <div className="d-flex weather-temperature">
                 <div>
-                  <strong id="temperature"></strong>
+                  <img src="" alt="Cloudy" id="icon" />
+                  <strong id="temperature">8</strong>
                   <span className="units">°C</span>
                 </div>
               </div>
