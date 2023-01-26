@@ -32,7 +32,7 @@ export default function Weather() {
               <li>
                 Last updated :<span id="date"> 9:22 AM</span>
               </li>
-              <li id="description">Cloudy</li>
+              <li id="description">Heavy Rain</li>
             </ul>
           </div>
           <div className="row">
