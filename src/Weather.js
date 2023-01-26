@@ -57,50 +57,50 @@ export default function Weather() {
             </div>
           </div>
           <div className="weather-forecast" id="forecast"></div>
-        </div>
-        <div>
-          <div className="row">
-            <div className="col text-center">
-              THURS
-              <br />
-              <i className="fa-solid fa-sun solid-sun"></i>
-              <br />
-              12°C
-            </div>
-            <div className="col text-center">
-              FRI
-              <br />
-              <i className="fa-solid fa-cloud-sun cloud-sun"></i>
-              <br />
-              10°C
-            </div>
-            <div className="col text-center">
-              SAT
-              <br />
-              <i className="fa-solid fa-cloud-sun-rain sun-rain"></i>
-              <br />
-              7°C
-            </div>
-            <div className="col text-center">
-              SUN
-              <br />
-              <i className="fa-solid fa-cloud-sun cloud-sun"></i>
-              <br />
-              9°C
-            </div>
-            <div className="col text-center">
-              MON
-              <br />
-              <i className="fa-solid fa-sun solid-sun"></i>
-              <br />
-              11°C
-            </div>
-            <div className="col text-center">
-              TUE
-              <br />
-              <i className="fa-solid fa-cloud solid-cloud"></i>
-              <br />
-              6°C
+          <div>
+            <div className="row">
+              <div className="col text-center">
+                THURS
+                <br />
+                <i className="fa-solid fa-sun solid-sun"></i>
+                <br />
+                12°C
+              </div>
+              <div className="col text-center">
+                FRI
+                <br />
+                <i className="fa-solid fa-cloud-sun cloud-sun"></i>
+                <br />
+                10°C
+              </div>
+              <div className="col text-center">
+                SAT
+                <br />
+                <i className="fa-solid fa-cloud-sun-rain sun-rain"></i>
+                <br />
+                7°C
+              </div>
+              <div className="col text-center">
+                SUN
+                <br />
+                <i className="fa-solid fa-cloud-sun cloud-sun"></i>
+                <br />
+                9°C
+              </div>
+              <div className="col text-center">
+                MON
+                <br />
+                <i className="fa-solid fa-sun solid-sun"></i>
+                <br />
+                11°C
+              </div>
+              <div className="col text-center">
+                TUE
+                <br />
+                <i className="fa-solid fa-cloud solid-cloud"></i>
+                <br />
+                6°C
+              </div>
             </div>
           </div>
         </div>
